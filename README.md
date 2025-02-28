@@ -18,6 +18,10 @@ Learn everything that you can do to increase the chances your transactions land 
 
 ### Solana Block CU Limit
 
+### CPI Max Depth
+
+4
+
 ## How to maximise chances of landing your transaction
 
 ### Get your priority fee straight
